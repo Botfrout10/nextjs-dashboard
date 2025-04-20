@@ -46,6 +46,66 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: 'a1d19a70-31de-4d4d-aed1-5f1ef2d2a4e3',
+    name: 'Sarah Connor',
+    email: 'sarah@connor.com',
+    image_url: '/customers/sarah-connor.png',
+  },
+  {
+    id: 'b2e22bb5-c187-4cb3-9058-1f0ec2d81e2f',
+    name: 'John Doe',
+    email: 'john@doe.com',
+    image_url: '/customers/john-doe.png',
+  },
+  {
+    id: 'c3f335cc-d97f-4e07-8a57-182f1e38f303',
+    name: 'Jane Smith',
+    email: 'jane@smith.com',
+    image_url: '/customers/jane-smith.png',
+  },
+  {
+    id: 'd4a448dd-e8c1-4b9c-9a4e-3e1f2d5aa405',
+    name: 'Tommy Lee',
+    email: 'tommy@lee.com',
+    image_url: '/customers/tommy-lee.png',
+  },
+  {
+    id: 'e5b559ee-fa45-41be-9f28-4e1fa3e6b506',
+    name: 'Anna Kendrick',
+    email: 'anna@kendrick.com',
+    image_url: '/customers/anna-kendrick.png',
+  },
+  {
+    id: 'f6c66aff-0b4b-4ac1-b8a3-5f2ff6e7c607',
+    name: 'Charlie Brown',
+    email: 'charlie@brown.com',
+    image_url: '/customers/charlie-brown.png',
+  },
+  {
+    id: '07d77b10-1e60-4da1-8a04-6f3f0a80d708',
+    name: 'Jessica Day',
+    email: 'jessica@day.com',
+    image_url: '/customers/jessica-day.png',
+  },
+  {
+    id: '18e88921-2f71-4fbc-9b17-703ffbb1e809',
+    name: 'Nick Miller',
+    email: 'nick@miller.com',
+    image_url: '/customers/nick-miller.png',
+  },
+  {
+    id: '29f99a32-4082-4e05-a04c-81400cc2f90a',
+    name: 'Winston Bishop',
+    email: 'winston@bishop.com',
+    image_url: '/customers/winston-bishop.png',
+  },
+  {
+    id: '3a1bb843-5193-49fb-a3c1-92111dd3fa0b',
+    name: 'Cece Parekh',
+    email: 'cece@parekh.com',
+    image_url: '/customers/cece-parekh.png',
+  },
 ];
 
 const invoices = [

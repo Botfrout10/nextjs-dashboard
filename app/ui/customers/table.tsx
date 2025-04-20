@@ -5,12 +5,14 @@ import {
   CustomersTableType,
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
+import Pagination from '../invoices/pagination';
 
 export default async function CustomersTable({
-  customers,
+  customers
 }: {
-  customers: FormattedCustomersTable[];
+  customers: FormattedCustomersTable[]
 }) {
+
   return (
     <div className="w-full">
       <h1 className={`${lusitana.className} mb-8 text-xl md:text-2xl`}>
